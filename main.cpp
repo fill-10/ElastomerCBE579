@@ -18,7 +18,7 @@ int main () {
 	int printing_frequency;
 	Box* box = new Box;
 	Read read;
-	string start_file = "/home/luohsubo/文档/CBE579/Elastomer/elastomer_input1.txt";
+	string start_file = "./elastomer_input1.txt";
 	read.setFileName(start_file);
 	read.openFile();
 	int number_of_beads;
