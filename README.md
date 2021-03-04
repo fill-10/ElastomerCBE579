@@ -1,5 +1,3 @@
 # ElastomerCBE579
-# This is the final version of a simple elastomer simulation.
-# It is based on the contents of CBE579 in F15.
-# Have fun!
-# H. L.
+A simple elastomer simulation.
+It is the final project of CBE579 at CBE UTK Fall 2015, taught by Dr. Dalhaimer.
